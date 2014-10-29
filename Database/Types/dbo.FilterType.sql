@@ -1,0 +1,2 @@
+﻿CREATE TYPE dbo.FilterType AS TABLE 
+	(Id INT NOT NULL)
